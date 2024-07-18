@@ -66,5 +66,5 @@ To generate recommendations, the user simply provides a movie title, and the sys
 - **400 Bad Request:** Returned if no movie title is provided.
 - **404 Not Found:** Returned if the provided movie title is not found in the dataset.
 ## FRONTEND
-![Screenshot of the app](assets/screenshot.png)
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Screenshot of the app](1ss.png)
+[![Watch the video](Untitled video - Made with Clipchamp.mp4](Untitled video - Made with Clipchamp.mp4)
