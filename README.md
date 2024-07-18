@@ -67,11 +67,9 @@ To generate recommendations, the user simply provides a movie title, and the sys
 - **404 Not Found:** Returned if the provided movie title is not found in the dataset.
 ## FRONTEND
 ![Screenshot of the app](1ss.png)
-
+# working
 <video src="https://github.com/user-attachments/assets/43a4b76e-e077-493b-8beb-2fba2126cd15" controls="controls" style="max-width: 730px;">
 </video>
 
-
-https://github.com/user-attachments/assets/43a4b76e-e077-493b-8beb-2fba2126cd15
 
 
