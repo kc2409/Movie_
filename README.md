@@ -10,7 +10,10 @@ A full-stack movie recommender application with a React frontend and Flask backe
 
 - **Frontend:** React.js
 - **Backend:** Flask (Python)
-- **API calls:**REST API 
+- **API calls:** REST API
+- **Testing:** Postman (for API testing)
+- **Build Tools:** Webpack, Babel 
+- **Version Control:** Git 
 
 
 ### Backend
@@ -62,4 +65,6 @@ To generate recommendations, the user simply provides a movie title, and the sys
 - **200 OK:** Returns a JSON array of recommended movies.
 - **400 Bad Request:** Returned if no movie title is provided.
 - **404 Not Found:** Returned if the provided movie title is not found in the dataset.
-
+## FRONTEND
+![Screenshot of the app](assets/screenshot.png)
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
