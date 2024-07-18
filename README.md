@@ -69,6 +69,5 @@ To generate recommendations, the user simply provides a movie title, and the sys
 ![Screenshot of the app](1ss.png)
 
 <video width="560" controls>
-  <source src="assets/demo-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="Untitled video - Made with Clipchamp.mp4" type="video/mp4">
 </video>
