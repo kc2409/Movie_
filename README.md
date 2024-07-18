@@ -67,4 +67,8 @@ To generate recommendations, the user simply provides a movie title, and the sys
 - **404 Not Found:** Returned if the provided movie title is not found in the dataset.
 ## FRONTEND
 ![Screenshot of the app](1ss.png)
-[![Watch the video](Untitled video - Made with Clipchamp.mp4](Untitled video - Made with Clipchamp.mp4)
+
+<video width="560" controls>
+  <source src="assets/demo-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
