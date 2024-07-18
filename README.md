@@ -69,6 +69,6 @@ To generate recommendations, the user simply provides a movie title, and the sys
 ![Screenshot of the app](1ss.png)
 
 <video width="560" controls>
-  <source src="[Untitled video - Made with Clipchamp.mp4](https://github.com/kc2409/Movie_/blob/0f06b1e8cd5f1ef30b1cb1efa807578da5371bb9/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)" type="video/mp4">
+  <source src="https://github.com/kc2409/Movie_/blob/0f06b1e8cd5f1ef30b1cb1efa807578da5371bb9/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" type="video/mp4">
 </video>
-![](https://github.com/kc2409/Movie_/blob/0f06b1e8cd5f1ef30b1cb1efa807578da5371bb9/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
+
